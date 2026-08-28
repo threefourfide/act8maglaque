@@ -223,7 +223,7 @@ function App() {
           <Col>
             <Card className="rounded bg-white shadow-sm" style={{ border: `1px solid ${borderMuted}` }}>
               <Card.Header className="fw-bold text-uppercase border-bottom py-3 bg-white" style={{ borderColor: borderMuted, color: "#212529" }}>
-                Registered Roster
+                Registered Students and Locations
               </Card.Header>
               <Card.Body className="p-0">
                 <Table hover responsive className="m-0 align-middle bg-white">
